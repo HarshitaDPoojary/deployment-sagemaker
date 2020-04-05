@@ -4,6 +4,7 @@ The Project is a notebook and collection of Python files to be completed. The re
 Screenshots are attached in the Project folder.
 
 **RNN algorithm**: LSTM
+
 **Notebook instance**: Sagemaker
 
 
